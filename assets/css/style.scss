@@ -3,7 +3,11 @@
 
 @import "{{ site.theme }}";
 
-body, p {
+body {
+  color: #ffffff;
+}
+
+p {
   color: #ffffff;
 }
 
