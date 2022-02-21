@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+body p {
+  color: #ffffff;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
 .wrapper {
   max-width: 80%;
 }
