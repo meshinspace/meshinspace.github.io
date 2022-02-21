@@ -28,3 +28,9 @@ Co-founder __Andrew Du__ ([University of Adelaide profile](https://researchers.a
 Co-founder __Dr. Ronald Mulinde__ ([UniSA profile](https://people.unisa.edu.au/Ronald.Mulinde), [LinkedIn profile](https://www.linkedin.com/in/ronald-mulinde)) specialises in signal processing for communications. He is CCNA- and CISSP-certified.
 
 Co-founder __Assoc. Prof. Dave Ormrod__ ([LinkedIn profile](https://www.linkedin.com/in/drdaveo/)) specialises in cyberwarfare and cybersecurity. He is also a Co-founder and the Director of Cygence, as well as an Information Security Registered Assessors Program (IRAP) professional endorsed by the Australian Signals Directorate (ASD).
+
+# Advisors #
+
+[Prof. Jill Slay](https://people.unisa.edu.au/jill.slay) from University of South Australia.
+
+[Prof. Tat-Jun Chin](https://www.adelaide.edu.au/directory/tat-jun.chin) from The University of Adelaide.
