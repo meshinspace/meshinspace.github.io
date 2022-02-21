@@ -8,7 +8,7 @@ On 9 February 2022, we were officially [announced](https://icc.unisa.edu.au/news
 
 __Problem:__ Satellite constellations are expanding rapidly at low Earth orbits (LEOs), and their connectivity is best served by the mesh topology. However, there is a lack of homegrown secure communication solutions.
 
-__Solution:__ The [Australian Civil Space Strategy 2019-2028](https://www.industry.gov.au/data-and-publications/australian-civil-space-strategy-2019-2028) has four Strategic Space Pillars, one of which is to _develop national capability in areas of competitive advantage_. Guide by this Strategic Space Pillar, we are currently dedicating ourselves to building a communication software suite, including a network protocol stack, for mesh-networked satellite constellations focusing on cybersecurity.
+__Solution:__ The [Australian Civil Space Strategy 2019-2028](https://www.industry.gov.au/data-and-publications/australian-civil-space-strategy-2019-2028) has four Strategic Space Pillars, one of which is to _develop national capability in areas of competitive advantage_. Guided by this Strategic Space Pillar, we are currently dedicating ourselves to building a communication software suite, including a network protocol stack, for mesh-networked satellite constellations focusing on cybersecurity.
 * The suite uses frameworks and protocols recommended by the [Consultative Committee for Space Data Systems (CCSDS)](https://public.ccsds.org) wherever applicable.
 * Our security solutions go beyond cryptographic protection and follow a defence-in-depth strategy to achieve resilience to faults, failures and attacks.
 * Artificial intelligence serves as a foundational component without draining scarce system resources.
