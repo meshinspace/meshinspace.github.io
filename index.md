@@ -19,7 +19,7 @@ Is to be a world-recognised supplier of secure mission-ready communication softw
 
 # The Team #
 
-Founder __Dr. Yee Wei Law__ ([UniSA profile](https://people.unisa.edu.au/YeeWei.Law), [LinkedIn profile](https://www.linkedin.com/in/yeeweilaw), [homepage](https://ywlaw.github.io)) specialises in cryptographic algorithms, protocols and architectures, as well as secure network protocol design. He is the main architect of the __Mesh in Space__ system.
+Founder __Dr. Yee Wei Law__ (“Law” for short, [UniSA profile](https://people.unisa.edu.au/YeeWei.Law), [LinkedIn profile](https://www.linkedin.com/in/yeeweilaw), [homepage](https://ywlaw.github.io)) specialises in cryptographic algorithms, protocols and architectures, as well as secure network protocol design. He is the main architect of the __Mesh in Space__ system.
 
 Co-founder __Joshua Davis__ ([LinkedIn profile](https://www.linkedin.com/in/joshua99911)) specialises in deep learning, as well as multi-domain physics-based modeling and simulations.
 
@@ -34,3 +34,7 @@ Co-founder __Assoc. Prof. Dave Ormrod__ ([LinkedIn profile](https://www.linkedin
 [Prof. Jill Slay](https://people.unisa.edu.au/jill.slay) from University of South Australia.
 
 [Prof. Tat-Jun Chin](https://www.adelaide.edu.au/directory/tat-jun.chin) from The University of Adelaide.
+
+# Contact #
+
+For inquiries, Law is reachable by <yeewei.law@meshin.space>.
