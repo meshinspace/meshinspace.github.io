@@ -1,4 +1,4 @@
-# About
+# About us
 
 **MESH IN SPACE** (registered business name) was founded as a spin-off of the [University of South Australia (UniSA)](https://unisa.edu.au) on 5 December 2021.
 
@@ -18,7 +18,7 @@ __Solution:__ The [Australian Civil Space Strategy 2019-2028](https://www.indust
 Is to be the one-stop shop for space organisations seeking to secure their space assets from cyber threats.
 
 
-# The Team
+# The team
 
 Founder __Dr. Yee Wei Law__ (“Law” for short, [UniSA profile](https://people.unisa.edu.au/YeeWei.Law), [LinkedIn profile](https://www.linkedin.com/in/yeeweilaw), [homepage](https://ywlaw.github.io)) specialises in cryptographic algorithms, protocols and architectures, as well as secure network protocol design. He is the main architect of the __MESH IN SPACE__ system.
 
